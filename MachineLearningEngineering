@@ -1,0 +1,11 @@
+Machine Learning with PostgreSQL: 
+Link can be found over here: 3rd party distributions
+Machine Learning and Data Visualization with PostgreSQL
+Download 2UDA for Windows, macOS, and Linux - certified by 2ndQuadrant for all supported versions of PostgreSQL.
+
+2ndQuadrant Unified Data Analytics (2UDA) is a data analytics application suite that unifies databases, machine learning, data mining, and visualization. The application can be installed using a user-friendly, one-click desktop installer. 2UDA builds on the capabilities of Orange, an open source machine learning and data visualization tool, by integrating it with the PostgreSQL database.
+
+Ready to run stacks
+'LAPP', 'MAPP' and 'WAPP' (Linux/Mac/Windows + Apache + PHP + PostgreSQL) stacks are available from BitNami.
+https://www.postgresql.org/download/
+Downloading 3ed party distributions. 
